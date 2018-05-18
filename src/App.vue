@@ -16,7 +16,8 @@
       </div>
     </div>
 
-    <DebugPanel/>
+    <!-- Probably don't deploy with this enabled, maybe find a better way -->
+    <!-- <DebugPanel/> -->
 
     <portal-target name="modals"></portal-target>
   </div>
